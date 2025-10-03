@@ -1,0 +1,145 @@
+
+    nav{
+background-color: #e9EDF9;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    position: fixed;
+    height: 100px;
+    margin-top: 0%;
+    top: 0;
+    left: 0;
+    flex-wrap: nowrap;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+ 
+ .nav-center {
+   
+  display: flex;
+    overflow: hidden;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.nav-center a{
+    text-decoration: none;
+    color:#2d2d2d;
+    margin:5px;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+body{
+background-color: #F0F8FF;;
+align-items: center;
+justify-content: center;
+}
+.intro{
+margin-top: 150px;
+}.h1{
+    margin-top: 150px;
+} 
+.produits{
+    min-width:100%;
+}
+
+.monsite{
+    margin-top: -25px;
+}
+
+    
+ .produit{
+border-radius: 10px;
+background-color: black;
+color: white;
+height: 40px;
+ }
+.devo{
+    margin-left: 150px;
+    background-color:white;
+    color: black;
+    text-decoration: none;
+    border: blue;
+    background-color: blue;
+    margin-inline-start: auto;
+    border-radius: 5px;
+    justify-content: center;
+    text-align: center;
+
+    
+
+
+}.devo a{
+    text-decoration: none;
+    color:white;
+}.maf{
+   width: 100%;
+} @media screen and(max-width:768px) {
+.produits{
+    align-items: center;
+    align-content: center;
+} 
+}.top{
+    margin-left: 7%;
+
+}
+.pe,.pep,.pepo{
+    
+    border-radius: 10px;
+    border-color: #e9EDF9;
+    color: #e9EDF9;
+    border:2px solid #e9EDF9;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+     display: flex;
+     flex-wrap: wrap;
+     width: 100px;
+     margin: 10px;
+     align-content: center;
+     align-items: center;
+     text-align: center;
+}.contient{
+    align-items: center;
+   align-content: center;
+   align-items: center;
+   justify-content: center;
+   margin-inline-start: auto;
+   display: flex;
+}footer{
+    background-color:  #e3e9f7;
+    border-radius: 20px;
+
+}.davud{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 80%;
+}.bro1{
+border-radius: 20px;
+}.bro2{
+    border-radius: 20px;
+}.bro3{
+    border-radius: 20px;
+}.aude{
+    color: black;
+}.audet{
+    color: black;
+}.au{
+    color: black;
+}.paul1,.paul2,.paul3,.paul4,.paul5,.paul6{ 
+            border: solid 2px black;
+            border-radius: 10px;
+            background-color: black;
+            width: 300px;
+}.a1,.a2,.a3,.a4,.a5,.a6{
+    text-decoration: none;
+    color: white;
+}.moi1,.moi2,.moi3{
+    text-decoration: none;
+    color: blueviolet;
+}.monsite{
+    margin-right: 70%;
+}

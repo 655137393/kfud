@@ -1,0 +1,21 @@
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 40px;
+}
+
+.flex1, .flex2, .flex3, .flex4, .flex5,.flex6,.flex7,.flex8,.flex9,.flex10 {
+    align-items: center;
+    justify-content: center;
+    background-color:  #F0F8FF;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    text-align: center;
+
+}
